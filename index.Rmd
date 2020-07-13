@@ -1,0 +1,29 @@
+---
+title: "Monica Nadeau"
+output: 
+  html_document:
+    css: styles.css
+---
+
+# Biography
+
+<div>
+<iframe src="https://monicavnadeau.github.io/monicavnadeau/CVNadeauCopy.pdf" style="width: 70%; height:1000px; margin-left: auto;margin-left: auto;" frameborder="0">
+</iframe>
+</div>
+
+# CV
+
+# Projects
+
+# Contact
+
+
+
+
+
+
+
+
+
+
