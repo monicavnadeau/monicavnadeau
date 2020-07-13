@@ -4,19 +4,17 @@ output:
   html_document:
     css: styles.css
 ---
+# {.tabset .tabset-fade .tabset-pills}
 
-# Biography
+## Biography
 
-<div>
-<iframe src="https://monicavnadeau.github.io/monicavnadeau/CVNadeauCopy.pdf" style="width: 70%; height:1000px; margin-left: auto;margin-left: auto;" frameborder="0">
-</iframe>
-</div>
+## CV
 
-# CV
+<div>(<iframe src="https://monicavnadeau.github.io/monicavnadeau/CVNadeau.pdf" style="width: 70%; height:1000px; margin-left: auto;margin-left: auto;" frameborder="0">(</iframe>(</div>
 
-# Projects
+## Projects
 
-# Contact
+## Contact
 
 
 
