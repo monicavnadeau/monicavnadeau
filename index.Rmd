@@ -15,10 +15,8 @@ output:
 ## Projects
 
 ## Contact
-
-Academic email: mvn@uchicago.edu
-
-Personal email: monicavnadeau@gmail.com
+# Academic email: mvn@uchicago.edu
+# Personal email: monicavnadeau@gmail.com
 
 
 
